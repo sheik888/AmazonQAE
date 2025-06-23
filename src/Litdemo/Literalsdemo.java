@@ -1,4 +1,4 @@
-package System.out;
+package Litdemo;
 
 public class Literalsdemo {
 	public static void main(String[] args) {
